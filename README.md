@@ -1,2 +1,2 @@
-# atcgnu bootcamp
-`atcgnu bootcamp`, a bootcamp of basic bioinformatics skills trainning
+# bootcamp
+bootcamp, a place where a newbie can boot from.
